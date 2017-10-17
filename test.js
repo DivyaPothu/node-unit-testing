@@ -10,7 +10,7 @@ return num%2 ==0;
 }
 
 describe('isEven',function(){
-it('should return true when number is even',function(){
+it('should return true when numb is even',function(){
 isEven(4).should.be.true;
 });
 
