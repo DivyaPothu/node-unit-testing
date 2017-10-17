@@ -1,0 +1,27 @@
+{
+  "name": "node-unittesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha",
+    "test1":"mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivyaPothu/node-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DivyaPothu/node-unit-testing/issues"
+  },
+  "homepage": "https://github.com/DivyaPothu/node-unit-testing#readme"
+}
